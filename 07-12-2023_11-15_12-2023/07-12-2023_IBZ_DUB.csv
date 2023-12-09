@@ -1,0 +1,78 @@
+Airline,Source,Destination,Duration,Total stops,Price,Date
+Vueling,IBZ,DUB,18h 40m,1 stop,€82,2023-12-11
+"Vueling, Aer Lingus",IBZ,DUB,6h 40m,1 stop,€228,2023-12-11
+British Airways,IBZ,DUB,6h 20m,1 stop,€323,2023-12-11
+British Airways,IBZ,DUB,7h 45m,1 stop,€288,2023-12-11
+"Iberia, Aer Lingus",IBZ,DUB,5h 30m,1 stop,€334,2023-12-11
+British Airways,IBZ,DUB,7h 10m,1 stop,€323,2023-12-11
+"Iberia, Transavia France",IBZ,DUB,9h 10m,2 stops,€210,2023-12-11
+Iberia,IBZ,DUB,5h 55m,1 stop,€370,2023-12-11
+British Airways,IBZ,DUB,8h 45m,1 stop,€288,2023-12-11
+"Air Europa, Transavia France",IBZ,DUB,12h 45m,2 stops,€158,2023-12-11
+"Iberia, British Airways",IBZ,DUB,6h 20m,1 stop,€371,2023-12-11
+"Iberia, British Airways",IBZ,DUB,7h 45m,1 stop,€324,2023-12-11
+"Vueling, Aer Lingus",IBZ,DUB,18h 00m,1 stop,€146,2023-12-11
+British Airways,IBZ,DUB,9h 45m,1 stop,€288,2023-12-11
+"Swiftair, Iberia",IBZ,DUB,15h 50m,2 stops,€135,2023-12-11
+Vueling,IBZ,DUB,7h 20m,1 stop,€62,2023-12-12
+Vueling,IBZ,DUB,13h 40m,1 stop,€51,2023-12-12
+"Vueling, Aer Lingus",IBZ,DUB,6h 40m,1 stop,€142,2023-12-12
+"Iberia Express, Aer Lingus",IBZ,DUB,5h 30m,1 stop,€181,2023-12-12
+"Iberia, Aer Lingus",IBZ,DUB,5h 30m,1 stop,€189,2023-12-12
+"Iberia, British Airways",IBZ,DUB,8h 40m,2 stops,€120,2023-12-12
+Vueling,IBZ,DUB,15h 55m,1 stop,€70,2023-12-12
+Vueling,IBZ,DUB,18h 20m,1 stop,€70,2023-12-12
+British Airways,IBZ,DUB,6h 20m,1 stop,€285,2023-12-12
+British Airways,IBZ,DUB,7h 45m,1 stop,€234,2023-12-12
+British Airways,IBZ,DUB,7h 20m,1 stop,€253,2023-12-12
+Vueling,IBZ,DUB,6h 45m,2 stops,€162,2023-12-12
+"Iberia, British Airways",IBZ,DUB,7h 15m,2 stops,€177,2023-12-12
+British Airways,IBZ,DUB,7h 15m,2 stops,€187,2023-12-12
+"Iberia, British Airways",IBZ,DUB,7h 45m,1 stop,€266,2023-12-12
+Iberia,IBZ,DUB,5h 50m,1 stop,€65,2023-12-13
+Vueling,IBZ,DUB,14h 05m,1 stop,€46,2023-12-13
+Iberia Express,IBZ,DUB,5h 50m,1 stop,€71,2023-12-13
+"Iberia, Iberia Express",IBZ,DUB,5h 50m,1 stop,€73,2023-12-13
+British Airways,IBZ,DUB,5h 50m,1 stop,€108,2023-12-13
+"Vueling, Aer Lingus",IBZ,DUB,6h 40m,1 stop,€96,2023-12-13
+Vueling,IBZ,DUB,5h 50m,1 stop,€141,2023-12-13
+"Iberia Express, Iberia",IBZ,DUB,5h 50m,1 stop,€150,2023-12-13
+Iberia,IBZ,DUB,13h 40m,1 stop,€69,2023-12-13
+Iberia Express,IBZ,DUB,13h 40m,1 stop,€64,2023-12-13
+"Iberia, British Airways",IBZ,DUB,7h 35m,2 stops,€130,2023-12-13
+"Iberia, Iberia Express",IBZ,DUB,13h 40m,1 stop,€67,2023-12-13
+"Iberia Express, Iberia",IBZ,DUB,13h 40m,1 stop,€68,2023-12-13
+British Airways,IBZ,DUB,6h 20m,1 stop,€269,2023-12-13
+British Airways,IBZ,DUB,13h 40m,1 stop,€108,2023-12-13
+Iberia,IBZ,DUB,5h 55m,1 stop,€117,2023-12-14
+Vueling,IBZ,DUB,24h 05m,1 stop,€50,2023-12-14
+Iberia Express,IBZ,DUB,5h 55m,1 stop,€109,2023-12-14
+"Iberia, Iberia Express",IBZ,DUB,5h 55m,1 stop,€112,2023-12-14
+"Iberia Express, Iberia",IBZ,DUB,5h 55m,1 stop,€113,2023-12-14
+"Vueling, Aer Lingus",IBZ,DUB,5h 45m,1 stop,€123,2023-12-14
+Vueling,IBZ,DUB,5h 55m,1 stop,€156,2023-12-14
+"Vueling, Aer Lingus",IBZ,DUB,8h 05m,1 stop,€98,2023-12-14
+British Airways,IBZ,DUB,5h 55m,1 stop,€171,2023-12-14
+"Vueling, Aer Lingus",IBZ,DUB,9h 05m,1 stop,€98,2023-12-14
+"Air Europa, Aer Lingus",IBZ,DUB,8h 10m,1 stop,€111,2023-12-14
+"Vueling, Aer Lingus",IBZ,DUB,6h 40m,1 stop,€151,2023-12-14
+Iberia,IBZ,DUB,10h 10m,1 stop,€117,2023-12-14
+"Iberia, Aer Lingus",IBZ,DUB,5h 30m,1 stop,€228,2023-12-14
+"Iberia Express, Aer Lingus",IBZ,DUB,5h 30m,1 stop,€243,2023-12-14
+"Iberia, Aer Lingus",IBZ,DUB,5h 30m,1 stop,€245,2023-12-14
+Vueling,IBZ,DUB,4h 50m,1 stop,€117,2023-12-15
+Iberia Express,IBZ,DUB,21h 35m,1 stop,€59,2023-12-15
+Vueling,IBZ,DUB,8h 05m,1 stop,€72,2023-12-15
+"Vueling, Aer Lingus",IBZ,DUB,6h 10m,1 stop,€113,2023-12-15
+"Vueling, Aer Lingus",IBZ,DUB,6h 40m,1 stop,€113,2023-12-15
+"Vueling, Transavia France",IBZ,DUB,5h 30m,1 stop,€135,2023-12-15
+"Vueling, Aer Lingus",IBZ,DUB,8h 20m,1 stop,€104,2023-12-15
+"Air Europa, Aer Lingus",IBZ,DUB,8h 10m,1 stop,€163,2023-12-15
+Vueling,IBZ,DUB,6h 35m,2 stops,€173,2023-12-15
+Iberia,IBZ,DUB,14h 00m,1 stop,€78,2023-12-15
+Iberia Express,IBZ,DUB,14h 00m,1 stop,€69,2023-12-15
+British Airways,IBZ,DUB,7h 45m,1 stop,€230,2023-12-15
+"Iberia, Iberia Express",IBZ,DUB,14h 00m,1 stop,€73,2023-12-15
+"Iberia Express, Iberia",IBZ,DUB,14h 00m,1 stop,€74,2023-12-15
+"Iberia, Aer Lingus",IBZ,DUB,5h 30m,1 stop,€257,2023-12-15
+British Airways,IBZ,DUB,8h 45m,1 stop,€230,2023-12-15
