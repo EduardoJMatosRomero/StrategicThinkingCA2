@@ -1,0 +1,16 @@
+Airline,Source,Destination,Duration,Total stops,Price,Date
+Vueling,DUB,MAD,2h 35m,direct,€167,2023-12-15
+Vueling,DUB,MAD,5h 25m,1 stop,€107,2023-12-15
+Iberia Express,DUB,MAD,2h 35m,direct,€172,2023-12-15
+Iberia,DUB,MAD,2h 35m,direct,€175,2023-12-15
+Aer Lingus,DUB,MAD,2h 35m,direct,€188,2023-12-15
+Aer Lingus,DUB,MAD,2h 35m,direct,€199,2023-12-15
+Iberia,DUB,MAD,2h 35m,direct,€210,2023-12-15
+"Aer Lingus, Air Europa",DUB,MAD,6h 10m,1 stop,€131,2023-12-15
+KLM,DUB,MAD,5h 05m,1 stop,€388,2023-12-15
+Lufthansa,DUB,MAD,5h 55m,1 stop,€323,2023-12-15
+"Transavia France, Air Europa",DUB,MAD,6h 20m,1 stop,€250,2023-12-15
+"Vueling, Air Europa",DUB,MAD,6h 20m,1 stop,€262,2023-12-15
+"Vueling, Air Europa",DUB,MAD,5h 25m,1 stop,€316,2023-12-15
+"Vueling, Iberia",DUB,MAD,5h 55m,1 stop,€337,2023-12-15
+British Airways,DUB,MAD,4h 40m,1 stop,€822,2023-12-15
