@@ -1,0 +1,228 @@
+Airline,Source,Destination,Duration,Total stops,Price,Date
+Aer Lingus,DUB,MAD,2h 35m,direct,€157,2023-12-13
+Aer Lingus,DUB,MAD,2h 35m,direct,€157,2023-12-13
+"Vueling, Air Europa",DUB,MAD,11h 15m,1 stop,€82,2023-12-13
+Vueling,DUB,MAD,2h 35m,direct,€167,2023-12-13
+Iberia Express,DUB,MAD,2h 35m,direct,€168,2023-12-13
+Iberia,DUB,MAD,2h 35m,direct,€179,2023-12-13
+"Vueling, Iberia",DUB,MAD,5h 15m,1 stop,€113,2023-12-13
+Vueling,DUB,MAD,11h 15m,1 stop,€88,2023-12-13
+Vueling,DUB,MAD,7h 10m,1 stop,€126,2023-12-13
+KLM,DUB,MAD,5h 10m,1 stop,€276,2023-12-13
+KLM,DUB,MAD,5h 05m,1 stop,€326,2023-12-13
+"Aer Lingus, Air Europa",DUB,MAD,5h 20m,1 stop,€221,2023-12-13
+"Vueling, Air Europa",DUB,MAD,6h 20m,1 stop,€184,2023-12-13
+KLM,DUB,MAD,6h 15m,1 stop,€253,2023-12-13
+"Vueling, Iberia",DUB,MAD,6h 25m,1 stop,€196,2023-12-13
+KLM,DUB,MAD,5h 20m,1 stop,€396,2023-12-13
+KLM,DUB,MAD,5h 10m,1 stop,€272,2023-12-14
+"Vueling, Air Europa",DUB,MAD,10h 50m,1 stop,€88,2023-12-14
+Aer Lingus,DUB,MAD,2h 50m,direct,€244,2023-12-14
+Iberia,DUB,MAD,2h 50m,direct,€246,2023-12-14
+Aer Lingus,DUB,MAD,2h 35m,direct,€268,2023-12-14
+"Vueling, Iberia",DUB,MAD,5h 20m,1 stop,€148,2023-12-14
+Vueling,DUB,MAD,6h 45m,1 stop,€119,2023-12-14
+Iberia Express,DUB,MAD,2h 35m,direct,€276,2023-12-14
+Vueling,DUB,MAD,2h 35m,direct,€277,2023-12-14
+Iberia,DUB,MAD,2h 35m,direct,€281,2023-12-14
+Iberia,DUB,MAD,2h 35m,direct,€281,2023-12-14
+Vueling,DUB,MAD,10h 50m,1 stop,€92,2023-12-14
+British Airways,DUB,MAD,2h 50m,direct,€290,2023-12-14
+Aer Lingus,DUB,MAD,2h 35m,direct,€301,2023-12-14
+Iberia,DUB,MAD,2h 35m,direct,€308,2023-12-14
+British Airways,DUB,MAD,2h 35m,direct,€326,2023-12-14
+British Airways,DUB,MAD,2h 35m,direct,€326,2023-12-14
+Vueling,DUB,MAD,10h 15m,1 stop,€101,2023-12-14
+Iberia Express,DUB,MAD,2h 35m,direct,€377,2023-12-14
+"Vueling, Iberia",DUB,MAD,7h 05m,1 stop,€153,2023-12-14
+Vueling,DUB,MAD,2h 35m,direct,€405,2023-12-14
+Aer Lingus,DUB,MAD,2h 35m,direct,€459,2023-12-14
+British Airways,DUB,MAD,2h 35m,direct,€476,2023-12-14
+"Aer Lingus, Iberia",DUB,MAD,5h 45m,1 stop,€191,2023-12-14
+"Aer Lingus, Iberia",DUB,MAD,6h 30m,1 stop,€182,2023-12-14
+"Aer Lingus, Iberia",DUB,MAD,6h 40m,1 stop,€177,2023-12-14
+"Aer Lingus, Air Europa",DUB,MAD,5h 20m,1 stop,€214,2023-12-14
+KLM,DUB,MAD,5h 10m,1 stop,€252,2023-12-14
+"Vueling, Iberia",DUB,MAD,8h 30m,1 stop,€153,2023-12-14
+"Aer Lingus, Iberia Express",DUB,MAD,6h 30m,1 stop,€191,2023-12-14
+"Aer Lingus, Iberia",DUB,MAD,6h 30m,1 stop,€198,2023-12-14
+Aer Lingus,DUB,MAD,2h 35m,direct,€157,2023-12-15
+Iberia,DUB,MAD,2h 35m,direct,€98,2023-12-15
+Iberia,DUB,MAD,2h 35m,direct,€148,2023-12-15
+Aer Lingus,DUB,MAD,2h 35m,direct,€157,2023-12-15
+Vueling,DUB,MAD,2h 35m,direct,€167,2023-12-15
+Iberia Express,DUB,MAD,2h 35m,direct,€172,2023-12-15
+British Airways,DUB,MAD,2h 35m,direct,€216,2023-12-15
+Vueling,DUB,MAD,5h 25m,1 stop,€106,2023-12-15
+Aer Lingus,DUB,MAD,2h 35m,direct,€355,2023-12-15
+British Airways,DUB,MAD,2h 35m,direct,€413,2023-12-15
+Aer Lingus,DUB,MAD,2h 50m,direct,€417,2023-12-15
+Iberia,DUB,MAD,2h 50m,direct,€428,2023-12-15
+British Airways,DUB,MAD,2h 50m,direct,€476,2023-12-15
+"Aer Lingus, Air Europa",DUB,MAD,6h 10m,1 stop,€150,2023-12-15
+"Vueling, Iberia",DUB,MAD,5h 55m,1 stop,€155,2023-12-15
+"Vueling, Air Europa",DUB,MAD,5h 25m,1 stop,€171,2023-12-15
+Aer Lingus,DUB,MAD,2h 35m,direct,€117,2023-12-16
+Iberia Express,DUB,MAD,2h 35m,direct,€108,2023-12-16
+"Aer Lingus, Iberia Express",DUB,MAD,10h 20m,1 stop,€104,2023-12-16
+Iberia Express,DUB,MAD,2h 35m,direct,€111,2023-12-16
+Iberia,DUB,MAD,2h 35m,direct,€116,2023-12-16
+Iberia,DUB,MAD,2h 35m,direct,€116,2023-12-16
+Aer Lingus,DUB,MAD,2h 35m,direct,€117,2023-12-16
+Aer Lingus,DUB,MAD,2h 35m,direct,€117,2023-12-16
+Vueling,DUB,MAD,2h 35m,direct,€128,2023-12-16
+Vueling,DUB,MAD,2h 35m,direct,€128,2023-12-16
+British Airways,DUB,MAD,2h 35m,direct,€173,2023-12-16
+British Airways,DUB,MAD,2h 35m,direct,€173,2023-12-16
+Aer Lingus,DUB,MAD,2h 50m,direct,€453,2023-12-16
+Iberia,DUB,MAD,2h 50m,direct,€501,2023-12-16
+Vueling,DUB,MAD,6h 20m,1 stop,€130,2023-12-16
+British Airways,DUB,MAD,2h 50m,direct,€548,2023-12-16
+"Transavia France, Iberia",DUB,MAD,5h 10m,1 stop,€165,2023-12-16
+Aer Lingus,DUB,MAD,2h 35m,direct,€157,2023-12-17
+Iberia Express,DUB,MAD,2h 35m,direct,€127,2023-12-17
+"Vueling, Renfe",DUB,MAD,11h 43m,1 stop,€120,2023-12-17
+Vueling,DUB,MAD,2h 35m,direct,€128,2023-12-17
+Iberia,DUB,MAD,2h 35m,direct,€133,2023-12-17
+Aer Lingus,DUB,MAD,2h 35m,direct,€157,2023-12-17
+British Airways,DUB,MAD,2h 35m,direct,€173,2023-12-17
+Aer Lingus,DUB,MAD,2h 35m,direct,€422,2023-12-17
+Air France,DUB,MAD,5h 15m,1 stop,€167,2023-12-17
+"Aer Lingus, Iberia",DUB,MAD,6h 30m,1 stop,€135,2023-12-17
+"Aer Lingus, Air Europa",DUB,MAD,5h 20m,1 stop,€154,2023-12-17
+"Aer Lingus, Vueling",DUB,MAD,6h 30m,1 stop,€144,2023-12-17
+Air France,DUB,MAD,5h 30m,1 stop,€255,2023-12-17
+"Aer Lingus, Air Europa",DUB,MAD,5h 55m,1 stop,€164,2023-12-17
+KLM,DUB,MAD,6h 15m,1 stop,€218,2023-12-17
+"Aer Lingus, Air Europa",DUB,MAD,6h 10m,1 stop,€167,2023-12-17
+KLM,DUB,MAD,5h 05m,1 stop,€328,2023-12-17
+KLM,DUB,MAD,5h 05m,1 stop,€166,2023-12-18
+Iberia,DUB,MAD,2h 35m,direct,€148,2023-12-18
+"Aer Lingus, Air Europa",DUB,MAD,9h 50m,1 stop,€108,2023-12-18
+Aer Lingus,DUB,MAD,2h 35m,direct,€201,2023-12-18
+Iberia Express,DUB,MAD,2h 35m,direct,€205,2023-12-18
+Vueling,DUB,MAD,2h 35m,direct,€211,2023-12-18
+British Airways,DUB,MAD,2h 35m,direct,€252,2023-12-18
+Vueling,DUB,MAD,7h 20m,1 stop,€109,2023-12-18
+"Vueling, Iberia",DUB,MAD,5h 25m,1 stop,€118,2023-12-18
+Air France,DUB,MAD,5h 30m,1 stop,€132,2023-12-18
+"Aer Lingus, Air Europa",DUB,MAD,5h 20m,1 stop,€120,2023-12-18
+"Vueling, Renfe",DUB,MAD,7h 05m,1 stop,€111,2023-12-18
+KLM,DUB,MAD,5h 05m,1 stop,€160,2023-12-18
+KLM,DUB,MAD,5h 10m,1 stop,€160,2023-12-18
+Aer Lingus,DUB,MAD,2h 35m,direct,€385,2023-12-18
+Iberia,DUB,MAD,2h 35m,direct,€428,2023-12-18
+Aer Lingus,DUB,MAD,2h 50m,direct,€453,2023-12-18
+Aer Lingus,DUB,MAD,2h 35m,direct,€251,2023-12-19
+"Vueling, Air Europa",DUB,MAD,6h 15m,1 stop,€88,2023-12-19
+Iberia Express,DUB,MAD,2h 35m,direct,€181,2023-12-19
+Iberia,DUB,MAD,2h 35m,direct,€186,2023-12-19
+Vueling,DUB,MAD,2h 35m,direct,€218,2023-12-19
+Vueling,DUB,MAD,6h 15m,1 stop,€117,2023-12-19
+Aer Lingus,DUB,MAD,2h 35m,direct,€251,2023-12-19
+British Airways,DUB,MAD,2h 35m,direct,€252,2023-12-19
+"Vueling, Renfe",DUB,MAD,6h 55m,1 stop,€100,2023-12-19
+KLM,DUB,MAD,5h 05m,1 stop,€155,2023-12-19
+Aer Lingus,DUB,MAD,2h 50m,direct,€385,2023-12-19
+Iberia,DUB,MAD,2h 50m,direct,€428,2023-12-19
+Aer Lingus,DUB,MAD,2h 35m,direct,€453,2023-12-19
+"Aer Lingus, TAP AIR PORTUGAL",DUB,MAD,5h 50m,1 stop,€156,2023-12-19
+KLM,DUB,MAD,5h 20m,1 stop,€196,2023-12-19
+British Airways,DUB,MAD,2h 50m,direct,€476,2023-12-19
+KLM,DUB,MAD,5h 05m,1 stop,€258,2023-12-20
+Iberia Express,DUB,MAD,2h 35m,direct,€201,2023-12-20
+"Vueling, Renfe",DUB,MAD,6h 55m,1 stop,€111,2023-12-20
+Iberia,DUB,MAD,2h 35m,direct,€209,2023-12-20
+British Airways,DUB,MAD,2h 35m,direct,€252,2023-12-20
+Vueling,DUB,MAD,5h 15m,1 stop,€157,2023-12-20
+Vueling,DUB,MAD,7h 10m,1 stop,€124,2023-12-20
+"Aer Lingus, Iberia",DUB,MAD,6h 30m,1 stop,€134,2023-12-20
+Iberia Express,DUB,MAD,2h 35m,direct,€307,2023-12-20
+"Vueling, Iberia",DUB,MAD,5h 15m,1 stop,€162,2023-12-20
+Iberia,DUB,MAD,2h 35m,direct,€351,2023-12-20
+Vueling,DUB,MAD,2h 35m,direct,€353,2023-12-20
+Aer Lingus,DUB,MAD,2h 35m,direct,€359,2023-12-20
+Aer Lingus,DUB,MAD,2h 35m,direct,€361,2023-12-20
+Aer Lingus,DUB,MAD,2h 50m,direct,€385,2023-12-20
+British Airways,DUB,MAD,2h 35m,direct,€413,2023-12-20
+Aer Lingus,DUB,MAD,2h 35m,direct,€301,2023-12-21
+Iberia Express,DUB,MAD,2h 35m,direct,€253,2023-12-21
+Multiple Airlines,DUB,MAD,16h 15m,2 stops,€136,2023-12-21
+Iberia,DUB,MAD,2h 35m,direct,€256,2023-12-21
+Vueling,DUB,MAD,2h 35m,direct,€281,2023-12-21
+Aer Lingus,DUB,MAD,2h 35m,direct,€301,2023-12-21
+British Airways,DUB,MAD,2h 35m,direct,€326,2023-12-21
+Iberia Express,DUB,MAD,2h 35m,direct,€377,2023-12-21
+Iberia,DUB,MAD,2h 35m,direct,€384,2023-12-21
+Aer Lingus,DUB,MAD,2h 50m,direct,€383,2023-12-21
+Vueling,DUB,MAD,2h 35m,direct,€405,2023-12-21
+Aer Lingus,DUB,MAD,2h 35m,direct,€424,2023-12-21
+Iberia,DUB,MAD,2h 50m,direct,€424,2023-12-21
+Aer Lingus,DUB,MAD,2h 35m,direct,€451,2023-12-21
+"CitizenPlane, Renfe",DUB,MAD,7h 30m,1 stop,€216,2023-12-21
+"Vueling, Iberia",DUB,MAD,7h 10m,1 stop,€218,2023-12-21
+British Airways,DUB,MAD,2h 35m,direct,€476,2023-12-21
+Aer Lingus,DUB,MAD,2h 35m,direct,€424,2023-12-22
+Vueling,DUB,MAD,5h 25m,1 stop,€258,2023-12-22
+Multiple Airlines,DUB,MAD,16h 50m,2 stops,€127,2023-12-22
+Vueling,DUB,MAD,2h 35m,direct,€405,2023-12-22
+Iberia Express,DUB,MAD,2h 35m,direct,€417,2023-12-22
+Aer Lingus,DUB,MAD,2h 35m,direct,€417,2023-12-22
+Iberia,DUB,MAD,2h 35m,direct,€419,2023-12-22
+Aer Lingus,DUB,MAD,2h 35m,direct,€424,2023-12-22
+Iberia,DUB,MAD,2h 35m,direct,€438,2023-12-22
+Aer Lingus,DUB,MAD,2h 50m,direct,€453,2023-12-22
+British Airways,DUB,MAD,2h 35m,direct,€476,2023-12-22
+British Airways,DUB,MAD,2h 35m,direct,€476,2023-12-22
+"Aer Lingus, Iberia",DUB,MAD,5h 40m,1 stop,€279,2023-12-22
+Iberia,DUB,MAD,2h 50m,direct,€501,2023-12-22
+"Vueling, Air Europa",DUB,MAD,5h 25m,1 stop,€287,2023-12-22
+"Aer Lingus, Iberia Express",DUB,MAD,6h 30m,1 stop,€271,2023-12-22
+British Airways,DUB,MAD,2h 50m,direct,€548,2023-12-22
+Aer Lingus,DUB,MAD,2h 30m,direct,€226,2023-12-23
+Aer Lingus,DUB,MAD,2h 30m,direct,€226,2023-12-23
+Vueling,DUB,MAD,6h 20m,1 stop,€207,2023-12-23
+Iberia Express,DUB,MAD,2h 35m,direct,€276,2023-12-23
+Vueling,DUB,MAD,2h 35m,direct,€277,2023-12-23
+Iberia,DUB,MAD,2h 35m,direct,€281,2023-12-23
+Aer Lingus,DUB,MAD,2h 35m,direct,€301,2023-12-23
+British Airways,DUB,MAD,2h 35m,direct,€326,2023-12-23
+Iberia,DUB,MAD,2h 35m,direct,€436,2023-12-23
+Aer Lingus,DUB,MAD,2h 50m,direct,€467,2023-12-23
+Iberia Express,DUB,MAD,2h 35m,direct,€485,2023-12-23
+"Vueling, Air Europa",DUB,MAD,6h 20m,1 stop,€224,2023-12-23
+"CitizenPlane, SNCF",DUB,MAD,7h 55m,1 stop,€273,2023-12-23
+"British Airways, Iberia",DUB,MAD,5h 10m,1 stop,€442,2023-12-23
+"British Airways, Iberia",DUB,MAD,6h 45m,1 stop,€366,2023-12-23
+"British Airways, Iberia",DUB,MAD,5h 30m,1 stop,€442,2023-12-23
+British Airways,DUB,MAD,5h 40m,1 stop,€444,2023-12-23
+"British Airways, Iberia",DUB,MAD,5h 40m,1 stop,€455,2023-12-23
+"Vueling, Iberia",DUB,MAD,6h 20m,1 stop,€348,2023-12-23
+British Airways,DUB,MAD,5h 40m,1 stop,€486,2023-12-23
+"British Airways, Iberia",DUB,MAD,6h 10m,1 stop,€442,2023-12-23
+TAP AIR PORTUGAL,DUB,MAD,5h 50m,1 stop,€458,2023-12-23
+"Vueling, Iberia",DUB,MAD,6h 25m,1 stop,€354,2023-12-23
+KLM,DUB,MAD,5h 10m,1 stop,€574,2023-12-23
+British Airways,DUB,MAD,5h 40m,1 stop,€528,2023-12-23
+KLM,DUB,MAD,5h 20m,1 stop,€574,2023-12-23
+British Airways,DUB,MAD,5h 10m,1 stop,€624,2023-12-23
+TAP AIR PORTUGAL,DUB,MAD,8h 15m,1 stop,€363,2023-12-23
+British Airways,DUB,MAD,6h 40m,1 stop,€461,2023-12-23
+"British Airways, Iberia",DUB,MAD,6h 55m,1 stop,€442,2023-12-23
+British Airways,DUB,MAD,5h 30m,1 stop,€611,2023-12-23
+Aer Lingus,DUB,MAD,2h 35m,direct,€361,2023-12-24
+Iberia,DUB,MAD,2h 35m,direct,€189,2023-12-24
+"Aer Lingus, Iberia Express",DUB,MAD,6h 05m,1 stop,€184,2023-12-24
+Iberia Express,DUB,MAD,2h 35m,direct,€302,2023-12-24
+"British Airways, Iberia",DUB,MAD,5h 20m,1 stop,€185,2023-12-24
+Iberia,DUB,MAD,2h 35m,direct,€314,2023-12-24
+Vueling,DUB,MAD,2h 35m,direct,€315,2023-12-24
+Aer Lingus,DUB,MAD,2h 35m,direct,€361,2023-12-24
+British Airways,DUB,MAD,2h 35m,direct,€369,2023-12-24
+British Airways,DUB,MAD,5h 20m,1 stop,€219,2023-12-24
+Aer Lingus,DUB,MAD,2h 35m,direct,€417,2023-12-24
+British Airways,DUB,MAD,2h 35m,direct,€476,2023-12-24
+"Aer Lingus, Iberia",DUB,MAD,6h 05m,1 stop,€189,2023-12-24
+Air France,DUB,MAD,5h 15m,1 stop,€234,2023-12-24
+"Aer Lingus, Iberia",DUB,MAD,6h 30m,1 stop,€190,2023-12-24
+British Airways,DUB,MAD,5h 40m,1 stop,€251,2023-12-24

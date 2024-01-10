@@ -1,0 +1,189 @@
+Airline,Source,Destination,Duration,Total stops,Price,Date
+"Aer Lingus, Air Europa",DUB,TFN,7h 45m,1 stop,€408,2023-12-26
+"Aer Lingus, Air Europa",DUB,TFN,26h 25m,2 stops,€325,2023-12-26
+"Aer Lingus, Binter Canarias",DUB,TFN,7h 15m,1 stop,€431,2023-12-26
+"Aer Lingus, Canaryfly",DUB,TFN,7h 45m,1 stop,€411,2023-12-26
+Vueling,DUB,TFN,7h 35m,1 stop,€585,2023-12-26
+"Aer Lingus, Binter Canarias",DUB,TFN,8h 40m,1 stop,€437,2023-12-26
+Multiple Airlines,DUB,TFN,11h 50m,2 stops,€337,2023-12-26
+Multiple Airlines,DUB,TFN,12h 50m,2 stops,€337,2023-12-26
+"Aer Lingus, Binter Canarias",DUB,TFN,10h 05m,1 stop,€410,2023-12-26
+Iberia,DUB,TFN,7h 35m,1 stop,€841,2023-12-26
+Vueling,DUB,TFN,8h 20m,1 stop,€767,2023-12-26
+"Aer Lingus, Binter Canarias",DUB,TFN,8h 40m,2 stops,€438,2023-12-26
+"Aer Lingus, Binter Canarias",DUB,TFN,10h 00m,1 stop,€437,2023-12-26
+"Aer Lingus, Air Europa",DUB,TFN,10h 55m,2 stops,€368,2023-12-26
+"Aer Lingus, Binter Canarias",DUB,TFN,11h 30m,1 stop,€410,2023-12-26
+"Aer Lingus, Binter Canarias",DUB,TFN,9h 40m,2 stops,€438,2023-12-26
+Multiple Airlines,DUB,TFN,10h 50m,3 stops,€463,2023-12-27
+Multiple Airlines,DUB,TFN,15h 15m,2 stops,€406,2023-12-27
+Vueling,DUB,TFN,9h 35m,1 stop,€813,2023-12-27
+Multiple Airlines,DUB,TFN,11h 35m,2 stops,€525,2023-12-27
+Multiple Airlines,DUB,TFN,9h 40m,2 stops,€648,2023-12-27
+Multiple Airlines,DUB,TFN,11h 00m,2 stops,€631,2023-12-27
+Multiple Airlines,DUB,TFN,10h 50m,2 stops,€642,2023-12-27
+Multiple Airlines,DUB,TFN,11h 00m,2 stops,€634,2023-12-27
+British Airways,DUB,TFN,9h 15m,2 stops,"€1,029",2023-12-27
+Multiple Airlines,DUB,TFN,10h 50m,2 stops,€645,2023-12-27
+Vueling,DUB,TFN,14h 25m,1 stop,€459,2023-12-27
+"Aer Lingus, Air Europa",DUB,TFN,13h 55m,1 stop,€464,2023-12-27
+Multiple Airlines,DUB,TFN,12h 55m,2 stops,€525,2023-12-27
+British Airways,DUB,TFN,10h 10m,2 stops,"€1,037",2023-12-27
+Iberia,DUB,TFN,14h 25m,1 stop,€657,2023-12-27
+British Airways,DUB,TFN,11h 45m,2 stops,€923,2023-12-27
+Iberia,DUB,TFN,13h 55m,1 stop,€299,2023-12-28
+Multiple Airlines,DUB,TFN,15h 15m,3 stops,€281,2023-12-28
+"Aer Lingus, Canaryfly",DUB,TFN,7h 45m,1 stop,€462,2023-12-28
+"Aer Lingus, Air Europa",DUB,TFN,7h 45m,1 stop,€487,2023-12-28
+Vueling,DUB,TFN,9h 15m,1 stop,€486,2023-12-28
+Multiple Airlines,DUB,TFN,9h 50m,2 stops,€335,2023-12-28
+Vueling,DUB,TFN,8h 20m,1 stop,€684,2023-12-28
+Multiple Airlines,DUB,TFN,10h 50m,2 stops,€337,2023-12-28
+Iberia Express,DUB,TFN,8h 15m,1 stop,€655,2023-12-28
+Multiple Airlines,DUB,TFN,11h 50m,2 stops,€337,2023-12-28
+"Aer Lingus, Binter Canarias",DUB,TFN,10h 05m,1 stop,€490,2023-12-28
+Iberia,DUB,TFN,8h 15m,1 stop,€688,2023-12-28
+Vueling,DUB,TFN,12h 10m,1 stop,€523,2023-12-28
+Iberia,DUB,TFN,9h 15m,1 stop,€856,2023-12-28
+Multiple Airlines,DUB,TFN,12h 30m,2 stops,€369,2023-12-28
+Iberia,DUB,TFN,9h 15m,1 stop,€729,2023-12-28
+"Aer Lingus, Binter Canarias",DUB,TFN,7h 20m,1 stop,€328,2023-12-29
+Multiple Airlines,DUB,TFN,38h 00m,2 stops,€244,2023-12-29
+"Aer Lingus, Binter Canarias",DUB,TFN,7h 10m,2 stops,€338,2023-12-29
+"Aer Lingus, Binter Canarias",DUB,TFN,7h 30m,2 stops,€367,2023-12-29
+"Aer Lingus, Binter Canarias",DUB,TFN,8h 40m,2 stops,€323,2023-12-29
+"Aer Lingus, Binter Canarias",DUB,TFN,9h 55m,1 stop,€328,2023-12-29
+Multiple Airlines,DUB,TFN,9h 50m,3 stops,€268,2023-12-29
+Multiple Airlines,DUB,TFN,11h 05m,2 stops,€274,2023-12-29
+Vueling,DUB,TFN,14h 25m,1 stop,€458,2023-12-29
+Multiple Airlines,DUB,TFN,16h 20m,2 stops,€268,2023-12-29
+Vueling,DUB,TFN,15h 40m,1 stop,€530,2023-12-29
+British Airways,DUB,TFN,10h 10m,2 stops,"€1,037",2023-12-29
+British Airways,DUB,TFN,11h 10m,2 stops,"€1,041",2023-12-29
+British Airways,DUB,TFN,11h 20m,2 stops,"€1,044",2023-12-29
+Multiple Airlines,DUB,TFN,20h 10m,2 stops,€274,2023-12-29
+Multiple Airlines,DUB,TFN,20h 35m,2 stops,€269,2023-12-29
+"Aer Lingus, Air Europa",DUB,TFN,7h 45m,1 stop,€263,2023-12-30
+"Aer Lingus, Canaryfly",DUB,TFN,7h 45m,1 stop,€264,2023-12-30
+"Aer Lingus, Binter Canarias",DUB,TFN,8h 10m,1 stop,€281,2023-12-30
+Vueling,DUB,TFN,7h 35m,1 stop,€458,2023-12-30
+"Aer Lingus, Binter Canarias",DUB,TFN,10h 05m,1 stop,€265,2023-12-30
+"Aer Lingus, Binter Canarias",DUB,TFN,9h 20m,2 stops,€267,2023-12-30
+"Aer Lingus, Binter Canarias",DUB,TFN,10h 55m,1 stop,€281,2023-12-30
+"Aer Lingus, Binter Canarias",DUB,TFN,7h 15m,1 stop,€469,2023-12-30
+"Aer Lingus, Binter Canarias",DUB,TFN,12h 50m,1 stop,€265,2023-12-30
+Multiple Airlines,DUB,TFN,9h 50m,2 stops,€293,2023-12-30
+Multiple Airlines,DUB,TFN,9h 50m,2 stops,€293,2023-12-30
+Multiple Airlines,DUB,TFN,10h 50m,2 stops,€297,2023-12-30
+"Aer Lingus, Binter Canarias",DUB,TFN,8h 40m,2 stops,€412,2023-12-30
+"Aer Lingus, Binter Canarias",DUB,TFN,12h 25m,2 stops,€283,2023-12-30
+"Aer Lingus, Binter Canarias",DUB,TFN,12h 25m,2 stops,€283,2023-12-30
+Vueling,DUB,TFN,17h 20m,1 stop,€168,2023-12-31
+Multiple Airlines,DUB,TFN,9h 50m,2 stops,€195,2023-12-31
+Multiple Airlines,DUB,TFN,9h 40m,2 stops,€204,2023-12-31
+Iberia,DUB,TFN,15h 40m,1 stop,€204,2023-12-31
+Iberia,DUB,TFN,14h 25m,1 stop,€238,2023-12-31
+Vueling,DUB,TFN,14h 25m,1 stop,€251,2023-12-31
+Vueling,DUB,TFN,15h 40m,1 stop,€251,2023-12-31
+Multiple Airlines,DUB,TFN,12h 50m,2 stops,€219,2023-12-31
+"Aer Lingus, Air Europa",DUB,TFN,15h 55m,1 stop,€247,2023-12-31
+Multiple Airlines,DUB,TFN,12h 40m,2 stops,€228,2023-12-31
+Multiple Airlines,DUB,TFN,10h 35m,2 stops,€361,2023-12-31
+Multiple Airlines,DUB,TFN,12h 10m,2 stops,€303,2023-12-31
+"Aer Lingus, Vueling",DUB,TFN,15h 40m,2 stops,€245,2023-12-31
+Multiple Airlines,DUB,TFN,16h 05m,2 stops,€219,2023-12-31
+Multiple Airlines,DUB,TFN,15h 55m,2 stops,€228,2023-12-31
+"Aer Lingus, Binter Canarias",DUB,TFN,7h 00m,1 stop,€237,2024-01-01
+Iberia,DUB,TFN,14h 25m,1 stop,€196,2024-01-01
+Vueling,DUB,TFN,9h 45m,1 stop,€243,2024-01-01
+Iberia,DUB,TFN,15h 40m,1 stop,€204,2024-01-01
+Vueling,DUB,TFN,12h 40m,1 stop,€266,2024-01-01
+Iberia,DUB,TFN,17h 10m,1 stop,€204,2024-01-01
+Iberia,DUB,TFN,18h 25m,1 stop,€211,2024-01-01
+Iberia,DUB,TFN,26h 00m,1 stop,€211,2024-01-01
+Iberia,DUB,TFN,19h 20m,1 stop,€314,2024-01-01
+Iberia,DUB,TFN,27h 15m,1 stop,€211,2024-01-01
+"TAP AIR PORTUGAL, Air Europa",DUB,TFN,12h 25m,3 stops,€447,2024-01-01
+British Airways,DUB,TFN,12h 15m,2 stops,€580,2024-01-01
+British Airways,DUB,TFN,12h 15m,2 stops,€580,2024-01-01
+"Aer Lingus, Iberia",DUB,TFN,11h 45m,2 stops,€606,2024-01-01
+"Aer Lingus, Iberia",DUB,TFN,11h 45m,2 stops,€606,2024-01-01
+Vueling,DUB,TFN,7h 35m,1 stop,€257,2024-01-02
+"Aer Lingus, Air Europa",DUB,TFN,25h 30m,2 stops,€201,2024-01-02
+"Aer Lingus, Binter Canarias",DUB,TFN,7h 15m,1 stop,€239,2024-01-02
+Iberia,DUB,TFN,8h 20m,1 stop,€299,2024-01-02
+"Aer Lingus, Binter Canarias",DUB,TFN,8h 00m,1 stop,€285,2024-01-02
+Iberia,DUB,TFN,7h 35m,1 stop,€569,2024-01-02
+"Aer Lingus, Binter Canarias",DUB,TFN,9h 00m,1 stop,€285,2024-01-02
+Iberia,DUB,TFN,11h 10m,1 stop,€299,2024-01-02
+Vueling,DUB,TFN,8h 20m,1 stop,€616,2024-01-02
+Iberia,DUB,TFN,9h 15m,1 stop,€498,2024-01-02
+"Aer Lingus, Air Europa",DUB,TFN,9h 30m,1 stop,€453,2024-01-02
+Multiple Airlines,DUB,TFN,9h 50m,2 stops,€271,2024-01-02
+Multiple Airlines,DUB,TFN,11h 00m,2 stops,€271,2024-01-02
+Multiple Airlines,DUB,TFN,11h 50m,2 stops,€271,2024-01-02
+"Aer Lingus, Air Europa",DUB,TFN,10h 25m,2 stops,€432,2024-01-02
+"Aer Lingus, Air Europa",DUB,TFN,10h 50m,2 stops,€411,2024-01-02
+"Aer Lingus, Binter Canarias",DUB,TFN,6h 10m,1 stop,€252,2024-01-03
+Iberia Express,DUB,TFN,15h 40m,1 stop,€139,2024-01-03
+"Aer Lingus, Iberia Express",DUB,TFN,6h 55m,1 stop,€210,2024-01-03
+Iberia,DUB,TFN,9h 15m,1 stop,€186,2024-01-03
+Iberia,DUB,TFN,14h 25m,1 stop,€149,2024-01-03
+"Aer Lingus, Iberia Express",DUB,TFN,9h 15m,1 stop,€168,2024-01-03
+"Aer Lingus, Iberia",DUB,TFN,9h 15m,1 stop,€179,2024-01-03
+Vueling,DUB,TFN,9h 35m,1 stop,€218,2024-01-03
+Iberia,DUB,TFN,11h 00m,1 stop,€186,2024-01-03
+British Airways,DUB,TFN,14h 25m,1 stop,€160,2024-01-03
+Iberia Express,DUB,TFN,14h 25m,1 stop,€144,2024-01-03
+Vueling,DUB,TFN,12h 30m,1 stop,€218,2024-01-03
+"Aer Lingus, Binter Canarias",DUB,TFN,10h 00m,1 stop,€242,2024-01-03
+"Aer Lingus, Binter Canarias",DUB,TFN,8h 40m,2 stops,€240,2024-01-03
+"Aer Lingus, Air Europa",DUB,TFN,9h 30m,2 stops,€224,2024-01-03
+Multiple Airlines,DUB,TFN,9h 35m,2 stops,€235,2024-01-03
+"Aer Lingus, Iberia Express",DUB,TFN,6h 55m,1 stop,€137,2024-01-04
+Iberia Express,DUB,TFN,13h 55m,1 stop,€99,2024-01-04
+Iberia Express,DUB,TFN,7h 20m,1 stop,€159,2024-01-04
+British Airways,DUB,TFN,7h 20m,1 stop,€207,2024-01-04
+"Iberia, Iberia Express",DUB,TFN,7h 20m,1 stop,€163,2024-01-04
+Vueling,DUB,TFN,9h 10m,1 stop,€144,2024-01-04
+Vueling,DUB,TFN,12h 05m,1 stop,€118,2024-01-04
+"Aer Lingus, Binter Canarias",DUB,TFN,8h 00m,1 stop,€153,2024-01-04
+Iberia,DUB,TFN,7h 20m,1 stop,€182,2024-01-04
+Iberia,DUB,TFN,8h 20m,1 stop,€186,2024-01-04
+"Aer Lingus, Iberia Express",DUB,TFN,9h 15m,1 stop,€128,2024-01-04
+British Airways,DUB,TFN,8h 20m,1 stop,€207,2024-01-04
+"Iberia, Iberia Express",DUB,TFN,9h 15m,1 stop,€133,2024-01-04
+"Aer Lingus, Iberia",DUB,TFN,9h 15m,1 stop,€142,2024-01-04
+Iberia,DUB,TFN,9h 15m,1 stop,€146,2024-01-04
+"Aer Lingus, Binter Canarias",DUB,TFN,9h 15m,1 stop,€153,2024-01-04
+"Aer Lingus, Iberia Express",DUB,TFN,6h 55m,1 stop,€154,2024-01-05
+Vueling,DUB,TFN,25h 40m,1 stop,€61,2024-01-05
+Iberia Express,DUB,TFN,14h 25m,1 stop,€95,2024-01-05
+"Aer Lingus, Vueling",DUB,TFN,7h 20m,1 stop,€171,2024-01-05
+Iberia,DUB,TFN,9h 15m,1 stop,€162,2024-01-05
+"Aer Lingus, Iberia Express",DUB,TFN,9h 15m,1 stop,€138,2024-01-05
+"Aer Lingus, Iberia",DUB,TFN,9h 15m,1 stop,€145,2024-01-05
+"Aer Lingus, Air Europa",DUB,TFN,9h 30m,1 stop,€144,2024-01-05
+"Aer Lingus, Vueling",DUB,TFN,11h 55m,1 stop,€126,2024-01-05
+Iberia,DUB,TFN,14h 25m,1 stop,€120,2024-01-05
+"Aer Lingus, Vueling",DUB,TFN,10h 30m,2 stops,€124,2024-01-05
+Iberia,DUB,TFN,12h 00m,1 stop,€162,2024-01-05
+"Aer Lingus, Iberia",DUB,TFN,12h 00m,1 stop,€145,2024-01-05
+British Airways,DUB,TFN,12h 15m,2 stops,€192,2024-01-05
+"Aer Lingus, Binter Canarias",DUB,TFN,10h 00m,1 stop,€209,2024-01-05
+"Iberia Express, Air Europa",DUB,TFN,13h 00m,2 stops,€140,2024-01-05
+Vueling,DUB,TFN,7h 35m,1 stop,€79,2024-01-06
+"Aer Lingus, Vueling",DUB,TFN,7h 20m,1 stop,€104,2024-01-06
+"Aer Lingus, Iberia Express",DUB,TFN,6h 55m,1 stop,€114,2024-01-06
+"Aer Lingus, Iberia Express",DUB,TFN,7h 30m,1 stop,€108,2024-01-06
+"Aer Lingus, Vueling",DUB,TFN,10h 00m,1 stop,€87,2024-01-06
+"Aer Lingus, Iberia",DUB,TFN,7h 30m,1 stop,€113,2024-01-06
+Iberia Express,DUB,TFN,8h 00m,1 stop,€107,2024-01-06
+"Aer Lingus, Binter Canarias",DUB,TFN,6h 20m,1 stop,€161,2024-01-06
+"Iberia, Iberia Express",DUB,TFN,7h 30m,1 stop,€122,2024-01-06
+"Iberia Express, Iberia",DUB,TFN,8h 00m,1 stop,€113,2024-01-06
+"Iberia, Iberia Express",DUB,TFN,8h 00m,1 stop,€115,2024-01-06
+Iberia,DUB,TFN,7h 30m,1 stop,€127,2024-01-06
+Iberia,DUB,TFN,8h 00m,1 stop,€120,2024-01-06
+"Aer Lingus, Iberia Express",DUB,TFN,9h 15m,1 stop,€104,2024-01-06
+British Airways,DUB,TFN,8h 00m,1 stop,€160,2024-01-06
