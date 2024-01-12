@@ -30,4 +30,5 @@ Milestones are achieved by assigning them to issues, which are then broken down 
 
   - Merging changes on GitLab is tracked by creating merge requests from the corresponding branch to the main one, which can be pushed through the web or terminal.
 
-![image]()
+![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture1.JPG)
+
