@@ -1,4 +1,4 @@
-# StrategicThinkingCA2
+![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/assets/147088976/3d1a795e-c926-46d2-8e8f-9725dd072283)# StrategicThinkingCA2
 
 The aim of the project is to predict what would be a normal price for an airline ticket based on two weeks of prices tracked by a travel search engine and compare the results with prices of tickets bought on the same day.
 
@@ -30,5 +30,57 @@ Milestones are achieved by assigning them to issues, which are then broken down 
 
   - Merging changes on GitLab is tracked by creating merge requests from the corresponding branch to the main one, which can be pushed through the web or terminal.
 
+![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture2.JPG)
+
 ![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture1.JPG)
 
+![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture3.JPG)
+
+![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture4.JPG)
+
+![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture5.JPG)
+
+## Issue and Milestones roadmap:
+  - Issue 1. Web Scraping – webscreaping branch Due date Dec 5, 2023.
+    - Task 1: HTML code updating – Due date Dec 5, 2023.
+  - WebScraping Updating milestone Due date Dec 5,2023.
+    - Issue 2. Data collection – webscraping branch Due date Dec 13, 2023.
+    - Task 1: 05/12/2023 Data collection flights from 11-15_12-2023 – Due date Dec 5, 2023.
+    - Task 2: 07/12/2023 Data collection flights from 11-15_12-2023 - Due date Dec 7, 2023.
+    - Task 3: 09/12/2023 Data collection flights from 11-15_12-20232023 - Due date Dec 9, 2023.
+    - Task 4: 11/12/2023 Data collection flights from 11-15_12-20232023 - Due date Dec 11, 2023.
+    - Task 5: 13/12/2023 Data collection flights from 13-15_12-20232023 - Due date Dec 13, 2023.
+    - Task 6: 15/12/2023 Data collection flights 15_12-20232023 - Due date Dec 15, 2023.
+  - Merging data collection milestone Due date Dec 13,2023.
+  - Issue 3. Data cleaning -datacleaning branch - Due date Dec 13, 2023.
+    - Task 1: Data format transformation2023 - Due date Dec 14, 2023.
+    - Task 2: Outliers2023 - Due date Dec 14, 2023.
+    - Task 3: Correlation2023 - Due date Dec 14, 2023.
+  - Cleaning Data collection milestone - Due date Dec 14, 2023.
+  - Issue 4. Machine learning algorithm modelling - main branch - Due date Dec 15, 2023
+    - Task 1: Machine learning modelling2023 - Due date Dec 15, 2023.
+   
+# WebScraping
+
+![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture13.JPG)
+
+![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture9.JPG)
+
+![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture10.JPG)
+
+![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture11.JPG)
+
+# Machine Learning Model
+
+Features
+- Airline, Source, Destination, Duration, Total stops, Date, Date scraped.
+Targed
+- Price
+
+![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture6.JPG)
+
+![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture7.JPG)
+
+![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture8.JPG)
+
+![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture9.JPG)
