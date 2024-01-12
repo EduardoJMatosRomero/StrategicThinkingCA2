@@ -1,4 +1,4 @@
-![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/assets/147088976/3d1a795e-c926-46d2-8e8f-9725dd072283)# StrategicThinkingCA2
+# StrategicThinkingCA2
 
 The aim of the project is to predict what would be a normal price for an airline ticket based on two weeks of prices tracked by a travel search engine and compare the results with prices of tickets bought on the same day.
 
