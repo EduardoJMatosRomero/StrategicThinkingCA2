@@ -64,8 +64,6 @@ Milestones are achieved by assigning them to issues, which are then broken down 
 
 ![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture13.JPG)
 
-![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture10.JPG)
-
 ![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture11.JPG)
 
 ![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture12.JPG)
