@@ -60,7 +60,7 @@ Milestones are achieved by assigning them to issues, which are then broken down 
   - Issue 4. Machine learning algorithm modelling - main branch - Due date Dec 15, 2023
     - Task 1: Machine learning modelling2023 - Due date Dec 15, 2023.
    
-# WebScraping
+# WebScraping Model
 
 ![image](https://github.com/EduardoJMatosRomero/StrategicThinkingCA2/blob/main/images/Capture13.JPG)
 
